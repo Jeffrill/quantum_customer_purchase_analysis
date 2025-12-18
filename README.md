@@ -107,30 +107,30 @@ customer-purchase-analysis/
 - Peak purchasing periods identified
 
 ## Key Visualizations
-
 All visualizations include labeled values for clarity and immediate insight.
 
 **Revenue by Life Stage**
+<img width="1000" height="600" alt="customer_revenue_by_lifestage" src="https://github.com/user-attachments/assets/5298a7b0-3f9d-48ba-ad20-2c0cc6ecfc33" />
 - Shows older singles/couples and retirees as dominant revenue sources
 - Clear revenue hierarchy across all seven life stage segments
 
 **Revenue by Customer Type**
-https://github.com/Jeffrill/quantum_customer_purchase_analysis/blob/main/customer_class_comparison.png
+<img width="1000" height="600" alt="customer_class_comparison" src="https://github.com/user-attachments/assets/a39d3860-b1af-486f-8443-9676773e3b8b" />
 - Demonstrates Mainstream segment outperforming Premium
 - Includes customer counts and revenue per customer metrics
 
 **Purchase Frequency by Segment**
-https://github.com/Jeffrill/quantum_customer_purchase_analysis/blob/main/purchase_frequency.png
+<img width="1000" height="600" alt="purchase_frequency" src="https://github.com/user-attachments/assets/8147fe00-28bd-41c6-be62-2b8687d27143" />
 - Highlights which segments shop most frequently
 - Identifies engagement opportunities in underperforming segments
 
 **Top 10 Products**
-https://github.com/Jeffrill/quantum_customer_purchase_analysis/blob/main/top_products.png
+<img width="1300" height="600" alt="top_products" src="https://github.com/user-attachments/assets/fe110efd-837f-4e0d-a751-5e17fb509da9" />
 - Best-selling chips products by total revenue
 - Foundation for inventory and merchandising decisions
 
 **Monthly Revenue Trends**
-https://github.com/Jeffrill/quantum_customer_purchase_analysis/blob/main/monthly_revenue.png
+<img width="1400" height="600" alt="monthly_revenue" src="https://github.com/user-attachments/assets/d291fd7b-5daf-4d57-a42a-f11ccbc7f96a" />
 - Seasonality patterns in chips purchases
 - Identifies peak and low-performing periods
 
@@ -207,7 +207,6 @@ https://github.com/Jeffrill/quantum_customer_purchase_analysis/blob/main/monthly
 **Jeffery Omoake**  
 Data Analyst  
 📧 jeffreyomoake01@gmail.com  
-💼 [LinkedIn Profile URL]  
 🔗 https://www.notion.so/jefferyomoake/Jeffery-Omoake-Data-Analyst-Portfolio-2c370a80defc80929584ca3adf23d9cb?source=copy_link
 
 ---
