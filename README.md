@@ -115,12 +115,12 @@ All visualizations include labeled values for clarity and immediate insight.
 - Clear revenue hierarchy across all seven life stage segments
 
 **Revenue by Customer Type**
-<img width="1000" height="600" alt="customer_class_comparison" src="https://github.com/user-attachments/assets/a39d3860-b1af-486f-8443-9676773e3b8b" />
+<img width="1000" height="600" alt="customer_class_comparison" src="https://github.com/user-attachments/assets/42bc0b24-42ef-4f91-919a-bd91f8e7c61c" />
 - Demonstrates Mainstream segment outperforming Premium
 - Includes customer counts and revenue per customer metrics
 
 **Purchase Frequency by Segment**
-<img width="1000" height="600" alt="purchase_frequency" src="https://github.com/user-attachments/assets/8147fe00-28bd-41c6-be62-2b8687d27143" />
+<img width="1000" height="600" alt="purchase_frequency" src="https://github.com/user-attachments/assets/3cb9fb7a-6509-4c1b-b1df-4b08bac7106c" />
 - Highlights which segments shop most frequently
 - Identifies engagement opportunities in underperforming segments
 
@@ -130,7 +130,7 @@ All visualizations include labeled values for clarity and immediate insight.
 - Foundation for inventory and merchandising decisions
 
 **Monthly Revenue Trends**
-<img width="1400" height="600" alt="monthly_revenue" src="https://github.com/user-attachments/assets/d291fd7b-5daf-4d57-a42a-f11ccbc7f96a" />
+<img width="1400" height="600" alt="monthly_revenue" src="https://github.com/user-attachments/assets/dd6c059a-68bf-4833-b90a-f34642a1d54d" />
 - Seasonality patterns in chips purchases
 - Identifies peak and low-performing periods
 
@@ -191,13 +191,12 @@ All visualizations include labeled values for clarity and immediate insight.
 ## Technical Notes
 
 - Analysis conducted using Python 3.x
-- All visualizations saved at 300 DPI for presentation quality
 - Data cleaning documented with before/after metrics
 - Reproducible analysis: Run notebook top-to-bottom to replicate findings
 
 ## How to Use This Repository
 
-1. **Start with README** (you're here) - Get project overview and key findings
+1. **Start with README** (here) - Get project overview and key findings
 2. **Review `customer_analysis.ipynb`** - See complete analysis with code, visualizations, and detailed insights
 3. **Check `visualizations/` folder** - View all charts independently
 4. **Read inline comments** - Code is documented with business context
